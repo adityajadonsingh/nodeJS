@@ -1,5 +1,5 @@
 const fs = require("node:fs"); // fs Module allows to work with files and directories, including reading, writing, updating, and deleting files. The module supports both synchronous and asynchronous methods.
-// C
+
 
 //==> Read File
 
