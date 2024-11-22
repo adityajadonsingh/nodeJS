@@ -1,0 +1,23 @@
+{
+  "name": "binary-search-by-aditya",
+  "version": "1.0.0",
+  "description": "Binary Search Package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary-search",
+    "npm",
+    "node",
+    "search-algorithm",
+    "array",
+    "sorted-array"
+  ],
+  "author": "Aditya Jadon",
+  "license": "ISC",
+  "dependencies": {
+    "binary-search": "file:"
+  }
+}
