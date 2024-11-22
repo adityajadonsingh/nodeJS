@@ -1,0 +1,26 @@
+{
+  "name": "array-ease",
+  "version": "1.0.0",
+  "description": "In this package user can get sum of an array with repeated & non-repeated elements, binary search in sorted array, elements position of sum of target elements, three sum of target element postion of elements, triangle pattern of array",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "2",
+    "sum",
+    "target",
+    "3",
+    "sum",
+    "target",
+    "binary-search",
+    "sum",
+    "of",
+    "array",
+    "with/out",
+    "repeatng"
+  ],
+  "author": "Aditya Jadon",
+  "license": "ISC"
+}
